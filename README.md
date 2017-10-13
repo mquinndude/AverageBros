@@ -1,4 +1,4 @@
 # AverageBros
-Playground for practicing programming abilities
+Playground for practicing programming skills... no abilities
 
-And we are going to be great at Java!
+You don't listen here.
